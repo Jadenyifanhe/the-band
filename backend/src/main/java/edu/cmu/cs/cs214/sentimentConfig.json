@@ -1,12 +1,12 @@
 {
   "type": "service_account",
-  "project_id": "genial-wonder-381118",
-  "private_key_id": "57756d224319a3dc14afecdd74bbf9725ed2dbb4",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQD7QcmXAVluid+i\nuiNfqhO6MJjoHypTtMVqnvyep304WSB2W5t6kML8k9ZK1qQX/JiauJ2jTLY9nsNz\nepZ7a1/s3JDgE6oCAHujSy9WJJBYMUvoNuhY9VCtpVfxyOZCKN7gCDEh7Yg22ob4\n3M9i1mBIb4VhYNpoXkpPDQBkWHdNWYRDPzQo5Foy/gR6TlUT5vJCCpmkLbl4/qom\nr55u4+fB9tjaL+2n09tf/2OTLOUKHWzkbYz+JdxfHDAgjTj07MHhUkbtG3AmWT6v\njAELanJBJC4BuCqApp8Wz8lBQjD8WThJkD40H7qyCQ3LB8AdL36i+RgHtEbhg4tX\nt1Pm7B3nAgMBAAECggEAKZ42jZA4J5Kn2/T4Ggb6eItHMJ/E65OUZbpK/t6gY76D\nnYdEBDPJUHwOcVwHVz/MaUhuOBfjUeaj2lNybKQXAg1w4+Tt8qHw2NYB08N/s1QL\nDj5WEzIjOHgcTpzn4wqRDEvfE48cUnW1CLDOm0EGNsleLwiTdNk1ds2hBH4Q2NtI\ngxnU8NswJDpAFHPP0SpZK8Eij1P6BScJlmxNk2oPUs1D7c18xRZhS9wqIHzEsXRT\n+ormTHuDtm8mEc8wXHOp5hQPtRFJYlMSObA6xL8BHm6o6kQfpqk6P9WrsbZb1+t6\nqEedwuZE2KQ0ZVgs12fU8lICFZWD2GrluGmPbl5IOQKBgQD/puRI6n5WQU6MVlg6\nfDe/ltcMH3IUlCs1YsTdBbzmfBqyU/7Ra6veuux38dVxS7FATq04tGxh5AGZ3SGf\n5CFRVq05pHyft6SStexJgz/sBA7XnHndnZrojS+CUUSYMkNc8iF+Ztm58g9JEqk/\n8ZOUOj34buVlEY90xK7NLbK4HwKBgQD7mV0lf/p6rBiRvw3ncUzHuDk3jJ7Xdqiu\n/dCOLDA4WmXzEMbGZ5d21PuS9NaFslkJ3N4C92oGO2km62R40zJSZb0xkvnnHb9+\nttDRFYlvdZqkKRtmcZHOKnLtX7MiO8fnKXzHpIWrgFA+oPxDaHiv1p1gVyz3WEEz\nIyOyb3cBOQKBgQDeNq11J8Y6qTdiSmcUJwa6FJ3FnsulUYkhNUHSr/sbCEKYQORc\nGc/hoO6L73vMp7NhJ0Hv6PvQNsShfhGNDllbfxDA6tWcap61G0ZQO7JjLr/L7+oJ\nlMWiX54tEwChngbpkllEqpeTxfA9XugYeZ4CmIFnINVp/VKJd7BNDeyrlwKBgQCq\nfeCK2tBndFsp2GeZoENBS2sqY1X39+aSvlgnH3aFmWxga8vnAqe21NitWtBLxPFl\nJ5AiPnpQQs4cm4J4BdWh1GOCRnCl1pi/Sy7xoECDkRP7jgeNQgRlyooapLEEz7HE\nyW5O8wPJlafK6NhI7XBq52m5sRk9e0ajWnqEHdhssQKBgQCJ0rx9UmSMuSPmVuME\n4U1dpZMXynXi07hytIViPoh9D8k5SU9qQYHtiw58Py/CAa+KdnK259HyQhH9Vshv\nIWlFeU3HxruSO6saBoGqYMGwtQrtYSs4PvjUENXPzQu8hrk3wcnl6FWngUGDAeaH\nQzWLr7zMS/nTn81t8zxza+XENA==\n-----END PRIVATE KEY-----\n",
-  "client_email": "id-7514-996@genial-wonder-381118.iam.gserviceaccount.com",
-  "client_id": "112708384583324360288",
+  "project_id": "",
+  "private_key_id": "",
+  "private_key": "",
+  "client_email": "",
+  "client_id": "",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/id-7514-996%40genial-wonder-381118.iam.gserviceaccount.com"
+  "client_x509_cert_url": ""
 }
